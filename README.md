@@ -6,7 +6,7 @@
 
 The main goal of this project is to help the marketing department of a fictional insurance company to allocate their limited resources more efficiently. In the end our team is expected to define, describe and explain the clusters created and propose a customized marketing strategy for each of the clients segments.
 
-Through out the development of this project multiple segmentation techniques were utilized, including: K-Means, Hierarchical Clustring, SOM, DBSCAN and K-Modes. 
+Throughout the development of this project multiple segmentation techniques were utilized, including: K-Means, Hierarchical Clustring, SOM, DBSCAN and K-Modes. 
 
 The project description can be consulted at: https://bit.ly/2SGeU0v
 
