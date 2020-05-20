@@ -1,4 +1,4 @@
-# DM_Project - Client Segmentation
+# Data Mining - Client Segmentation
 
 | Grade                | Mean                  | Q75                |
 |:--------------------:|:---------------------:|:------------------:|
